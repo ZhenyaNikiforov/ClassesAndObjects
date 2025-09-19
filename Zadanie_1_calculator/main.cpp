@@ -57,6 +57,7 @@ public:
     return true;
   };
 
+private:
   double num1;
   double num2;
 };
